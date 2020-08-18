@@ -1,4 +1,4 @@
-alert("press on drums to play if you're");
+alert("press on drums to play");
 var i;
 var len = document.querySelectorAll(".drum").length;
 
